@@ -10,15 +10,6 @@ mat-sidenav-container {
                 color: white;
             }
 
-            .chevron-button {
-                transition: 300ms ease-in-out;
-                transform: rotate(0deg);
-            }
-
-            .chevron-button.rotated {
-                transform: rotate(180deg);
-            }
-
             mat-icon {
                 vertical-align: middle;
             }

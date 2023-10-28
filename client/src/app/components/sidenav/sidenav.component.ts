@@ -6,9 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./sidenav.component.scss']
 })
 export class SidenavComponent {
-  isExpanded: boolean = false;
-
-  // expand(): void {
-  //   this.isExpanded = !this.isExpanded;
-  // }
 }
